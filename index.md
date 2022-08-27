@@ -1,4 +1,9 @@
-# Test Header
+# Ethan Simmelink's First CS193 Homework
+
+## Favorite Things about CS193
+- Get to learn useful technical skills
+- Only one homework per every two weeks
+- There's an extra credit assignment
 
 ## Welcome to GitHub Pages
 
